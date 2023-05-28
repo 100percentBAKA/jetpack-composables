@@ -7,3 +7,6 @@ This repo contains the Implementation of Important Jetpack Compose Composables (
  
  * ### [AnnotatedStrings](https://github.com/Adarsh-ctrl-v/jetpack-composables/tree/main/AnnotatedStrings)
  #### ![](https://github.com/Adarsh-ctrl-v/jetpack-composables/blob/main/AnnotatedStrings/AnnotatedStrings.png)
+ 
+ * ### [RecompositionDemo](https://github.com/Adarsh-ctrl-v/jetpack-composables/tree/main/RecompositionStates)
+ #### ![](https://github.com/Adarsh-ctrl-v/jetpack-composables/blob/main/RecompositionStates/RecompositionDemo.gif)
