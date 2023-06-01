@@ -18,3 +18,4 @@ This repo contains the Implementation of Important Jetpack Compose Composables (
  #### ![](https://github.com/Adarsh-ctrl-v/jetpack-composables/blob/main/scaffold-layout/ScaffoldLayoutDemo.png)
 
 * ### [lazy-column-demo](https://github.com/Adarsh-ctrl-v/jetpack-composables/tree/main/lasy-column-demo)
+#### ![](https://github.com/Adarsh-ctrl-v/jetpack-composables/blob/main/lasy-column-demo/lazy-column-demo.gif)
