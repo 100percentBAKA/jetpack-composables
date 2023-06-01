@@ -2,14 +2,17 @@
 This repo contains the Implementation of Important Jetpack Compose Composables ( Material3 ).
 
 ## Table of Contents: 
-* ### [Image-Cards](https://github.com/Adarsh-ctrl-v/jetpack-composables/tree/main/ImageCards)
- #### ![](https://github.com/Adarsh-ctrl-v/jetpack-composables/blob/main/ImageCards/ImageCards.png)
+* ### [image-cards](https://github.com/Adarsh-ctrl-v/jetpack-composables/tree/main/image-cards)
+ #### ![](https://github.com/Adarsh-ctrl-v/jetpack-composables/blob/main/image-cards/ImageCards.png)
  
- * ### [AnnotatedStrings](https://github.com/Adarsh-ctrl-v/jetpack-composables/tree/main/AnnotatedStrings)
- #### ![](https://github.com/Adarsh-ctrl-v/jetpack-composables/blob/main/AnnotatedStrings/AnnotatedStrings.png)
+ * ### [annotated-strings](https://github.com/Adarsh-ctrl-v/jetpack-composables/tree/main/annotated-strings)
+ #### ![](https://github.com/Adarsh-ctrl-v/jetpack-composables/blob/main/annotated-string/AnnotatedStrings.png)
  
- * ### [RecompositionDemo](https://github.com/Adarsh-ctrl-v/jetpack-composables/tree/main/RecompositionStates)
- #### ![](https://github.com/Adarsh-ctrl-v/jetpack-composables/blob/main/RecompositionStates/RecompositionDemo.gif)
+ * ### [recomposition-demo](https://github.com/Adarsh-ctrl-v/jetpack-composables/tree/main/recomposition-demo)
+ #### ![](https://github.com/Adarsh-ctrl-v/jetpack-composables/blob/main/recomposition-demo/RecompositionDemo.gif)
  
- * ### [Scaffolds-Snackbar-TextField-Button](https://github.com/Adarsh-ctrl-v/jetpack-composables/tree/main/ScafffoldSnackBars)
- ### ![](https://github.com/Adarsh-ctrl-v/jetpack-composables/blob/main/ScaffoldSnackBars/ScaffoldSnackbarTextFieldButtonDemo.gif)
+ * ### [scaffold-snackbar-demo](https://github.com/Adarsh-ctrl-v/jetpack-composables/tree/main/scaffold-snackbar-demo)
+ ### ![](https://github.com/Adarsh-ctrl-v/jetpack-composables/blob/main/scaffold-snackbar-demo/ScaffoldSnackbarTextFieldButtonDemo.gif)
+ 
+ * ### [scaffold-layout](https://github.com/Adarsh-ctrl-v/jetpack-composables/tree/main/scaffold-layout)
+ #### ![](https://github.com/Adarsh-ctrl-v/jetpack-composables/blob/main/scaffold-layout/ScaffoldLayoutDemo.png)
